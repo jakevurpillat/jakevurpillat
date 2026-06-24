@@ -1,16 +1,37 @@
-## Hi there 👋
+# Jake Vurpillat
 
-<!--
-**jakevurpillat/jakevurpillat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Statistics and Data Science graduate from UC Santa Barbara focused on
+data engineering, analytics, and data-driven software development.
 
-Here are some ideas to get you started:
+I build reliable data pipelines, analytical models, and deployed applications
+using Python, SQL, PostgreSQL, TypeScript, and modern cloud tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Work
+
+### Formula 1 Strategy Analytics Platform
+Python and SQL analytics platform that transforms race-session data into
+validated dimensional models and strategy-focused analytical marts.
+
+- Designed ingestion, validation, and transformation workflows
+- Built dimensional models in DuckDB
+- Preserved incomplete and irregular source records without silent data loss
+- Developing pace modeling and strategy simulation capabilities
+
+### Personal OS
+Mobile-first health and performance application built with Next.js,
+TypeScript, Supabase, PostgreSQL, and Vercel.
+
+- Implemented authenticated, user-specific data persistence
+- Designed relational schemas, migrations, and Row Level Security policies
+- Built workout, body-weight, nutrition, habit, and recovery interfaces
+- Developed resilient logging and data-validation workflows
+
+## Core Technologies
+
+Python · SQL · PostgreSQL · DuckDB · pandas · Spark · TypeScript ·
+Next.js · Supabase · Git · GitHub Actions
+
+## Contact
+
+- LinkedIn: linkedin.com/in/jakevurpillat
+- Email: jakevurpillat@gmail.com
