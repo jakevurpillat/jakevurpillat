@@ -17,7 +17,7 @@ validated dimensional models and strategy-focused analytical marts.
 - Preserved incomplete and irregular source records without silent data loss
 - Developing pace modeling and strategy simulation capabilities
 
-### Personal OS
+### Personal Dashboard
 Mobile-first health and performance application built with Next.js,
 TypeScript, Supabase, PostgreSQL, and Vercel.
 
